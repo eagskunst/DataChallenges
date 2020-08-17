@@ -29,3 +29,11 @@ Directories are divided into challenges. Each directory also has a 'db' director
 3. Top 10 age that survived and top 10 that did not
 4. How many titles/charges where in the ship?
 5. Total of the tickets prices in USD
+
+### Challenge 2: StackOverflow questions and tags
+
+1. How many tags are?
+2. Top 10 asked tags
+3. Top 5 most/least scored questions:
+4. Tags by score's mean, max and min
+5. Relation between words count in body and score (pending)
